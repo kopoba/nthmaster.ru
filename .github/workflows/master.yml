@@ -14,4 +14,4 @@ jobs:
         server: ftp.ha005.justhost.ru
         username: ${{ secrets.user_name }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /domain/nthmaster.ru/public_html/
+        server-dir: /domains/nthmaster.ru/public_html/
